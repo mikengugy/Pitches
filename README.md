@@ -1,4 +1,4 @@
-# PitchHere
+# PitchApp
 ## A web application that lets users submit pitches based on different categories
 
 
